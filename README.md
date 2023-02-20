@@ -10,7 +10,7 @@ git clone https://github.com/varithpu/Perspective_Transformation.git
 ```
 cd Perspective_Transformation
 ```
-3. Run the pretrained model
+3. Run python script
 ```
 python3 project1.py
 ```
